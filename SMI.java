@@ -10,5 +10,6 @@ public class SMI {
 		longitud = 2 * 3.1416 + radio;
 		System.out.println("Longitud: "+longitud);
 		sc.close();
+		//Comentario hecho por JoseM
 	}
 }
